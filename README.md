@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Olga, and I'm a web developer interested in all things Cloud Computing!
+
+- 🔭 I’m currently working on the Remote Data and RT Applications demo projects.
+- 🌱 I’m currently learning Cloud Development & Operations.
+- 👯 I’m looking to collaborate on YouTube videos!
+    - Send me ideas to olga.durham.dev@gmail.com
+
+
 <!--
 **shap0011/shap0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
