@@ -2,7 +2,7 @@
 
 My name is Olga, and I'm an interactive media designer and web developer interested in all things Cloud Computing!
 
-![Saber Plug After Effect Exercise](./resources/saber_plug.gif)
+![Saber Plug After Effect Exercise](./resources/siber_plug.gif)
 
 - 🔭 I’m currently working on the Remote Data and RT Applications demo projects.
 - 🌱 I’m currently learning Cloud Development & Operations.
@@ -27,4 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 :flag_canada:
 https://www.webfx.com/tools/emoji-cheat-sheet/
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+https://github.com/skills/communicate-using-markdown
 -->
