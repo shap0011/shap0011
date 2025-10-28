@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-My name is Olga, and I'm a web developer interested in all things Cloud Computing!
+My name is Olga, and I'm an interactive media designer and web developer interested in all things Cloud Computing!
 
 - 🔭 I’m currently working on the Remote Data and RT Applications demo projects.
 - 🌱 I’m currently learning Cloud Development & Operations.
 - 👯 I’m looking to collaborate on YouTube videos!
+    - [Audio Production Project](https://youtu.be/qpwK6-nTluc?si=6ePrrzzPzjDblj2c)
     - Send me ideas to olga.durham.dev@gmail.com
 
 
