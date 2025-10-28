@@ -2,6 +2,8 @@
 
 My name is Olga, and I'm an interactive media designer and web developer interested in all things Cloud Computing!
 
+![Saber Plug After Effect Excercise]()
+
 - 🔭 I’m currently working on the Remote Data and RT Applications demo projects.
 - 🌱 I’m currently learning Cloud Development & Operations.
 - 👯 I’m looking to collaborate on YouTube videos!
