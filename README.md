@@ -13,6 +13,8 @@ My name is Olga, and I'm an interactive media designer and web developer interes
 <!--
 **shap0011/shap0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://mtm6407-static-site-shap0011-netlify.netlify.app/graphics.html
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
