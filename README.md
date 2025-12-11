@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-My name is Olga, and I'm an interactive media designer and web developer interested in all things Cloud Computing!
+My name is Olga, and I'm a student in Cloud Development and Operations in Algonquin College, Ottawa, ON, Canada.'m
 
+I'm currently working on 🧜‍♀️ [Mastering Mermaid.js: Diagram, Charts and Data Visualization](https://github.com/shap0011/Udemy-Mastering-Mermaid.js-Diagram-Charts-and-Data-Visualization)
+
+ 
+<!--
 ![Saber Plug After Effect Exercise](./resources/siber_plug.gif)
 
-<!--
+
 - 🔭 I’m currently working on the Remote Data and RT Applications demo projects.
 - 🌱 I’m currently learning Cloud Development & Operations.
 - 👯 I’m looking to collaborate on YouTube videos!
