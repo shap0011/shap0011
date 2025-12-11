@@ -4,6 +4,15 @@ My name is Olga, and I'm a student in Cloud Development and Operations in Algonq
 
 I'm currently working on 🧜‍♀️ [Mastering Mermaid.js: Diagram, Charts and Data Visualization](https://github.com/shap0011/Udemy-Mastering-Mermaid.js-Diagram-Charts-and-Data-Visualization)
 
+```mermaid
+graph LR;
+    A--> B & C & D
+    B--> A & E
+    C--> A & E
+    D--> A & E
+    E--> B & C & D
+```
+
  
 <!--
 ![Saber Plug After Effect Exercise](./resources/siber_plug.gif)
