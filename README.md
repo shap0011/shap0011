@@ -2,7 +2,7 @@
 
 My name is Olga, and I'm a student in Cloud Development and Operations in Algonquin College, Ottawa, ON, Canada.
 
-I'm currently working on 🧜‍♀️ [Mastering Mermaid.js: Diagram, Charts and Data Visualization](https://github.com/shap0011/Udemy-Mastering-Mermaid.js-Diagram-Charts-and-Data-Visualization)
+I'm currently working on 🧜‍♀️ [Mastering Mermaid.js: Diagram, Charts and Data Visualization](https://github.com/shap0011/mermaid-learning-notes)
 
 ```mermaid
 graph LR;
