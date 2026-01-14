@@ -7,6 +7,9 @@ My name is Olga, and I'm a student in Cloud Development and Operations in Algonq
 🔹 Portfolio: https://shap0011.github.io  
 🔹 LinkedIn: https://www.linkedin.com/in/olga-durham
 
+<details>
+<summary>Read More</summary>
+
 ### Featured Projects
 
 - 🔗 Contact Book (React + Firebase)
@@ -31,16 +34,15 @@ graph LR;
     E--> B & C & D
 ```
 
+</details>
 <!--
 ![Saber Plug After Effect Exercise](./resources/siber_plug.gif)
-
 
 - 🔭 I’m currently working on the Remote Data and RT Applications demo projects.
 - 🌱 I’m currently learning Cloud Development & Operations.
 - 👯 I’m looking to collaborate on YouTube videos!
   - [Audio Production Project](https://youtu.be/qpwK6-nTluc?si=6ePrrzzPzjDblj2c)
   - Send me ideas to olga.durham.dev@gmail.com
-
 
 **shap0011/shap0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,8 +58,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-:flag_canada:
-https://www.webfx.com/tools/emoji-cheat-sheet/
+  :flag_canada:
+  https://www.webfx.com/tools/emoji-cheat-sheet/
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
