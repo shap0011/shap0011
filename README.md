@@ -2,7 +2,25 @@
 
 My name is Olga, and I'm a student in Cloud Development and Operations in Algonquin College, Ottawa, ON, Canada.
 
-I'm currently working on 🧜‍♀️ [Mastering Mermaid.js: Diagram, Charts and Data Visualization](https://github.com/shap0011/mermaid-learning-notes)
+**Cloud Development & Operations | Business Intelligence | Web & Data Projects**
+
+🔹 Portfolio: https://shap0011.github.io  
+🔹 LinkedIn: https://www.linkedin.com/in/olga-durham
+
+### Featured Projects
+
+- 🔗 Contact Book (React + Firebase)
+- 🔗 Machine Learning Portfolio (Jekyll)
+- 🔗 Power BI Dashboards
+- 🔗 Cloud-Native Pet Store Deployment
+
+### Skills Snapshot
+
+Python • SQL • Power BI • React • Firebase • Azure • GitHub Pages
+
+### I'm currently working on
+
+🧜‍♀️ [Mastering Mermaid.js: Diagram, Charts and Data Visualization](https://github.com/shap0011/mermaid-learning-notes)
 
 ```mermaid
 graph LR;
