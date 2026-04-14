@@ -40,7 +40,7 @@
 
 #### 🎯 UI/UX Design & Accessibility
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoWidth=20) ![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat&logo=w3c&logoColor=white&logoWidth=20) <a href="https://wet-boew.github.io/wet-boew/index-en.html" alt="WET-BOEW" terget="_blank">![WET-BOEW](https://img.shields.io/badge/WET--BOEW-003366?style=flat&logoWidth=20)</a>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoWidth=20) ![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat&logo=w3c&logoColor=white&logoWidth=20) <a href="https://wet-boew.github.io/wet-boew/index-en.html" alt="WET-BOEW" target="_blank">![WET-BOEW](https://img.shields.io/badge/WET--BOEW-003366?style=flat&logoWidth=20)</a>
 
 ---
 
