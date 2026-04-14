@@ -4,9 +4,11 @@
 
   <img src="resources/your_cool_intro.gif" alt="Intro">
 
-  <p><strong>Cloud Development & Operations | Business Intelligence | Web & Data Projects</strong></p>
+  <p><span style="color: #2ECC71; font-weight:bold;">Cloud Development & Operations | Business Intelligence | Web & Data Projects</span></p>
 
   <img src="resources/siber_plug.gif" alt="Intro">
+
+  <span style="background-color: #049e44; color: #FFFFFF; padding: 0.4em 0.8em; margin-right: 0.4em;"><a href="https://shap0011.github.io">Portfolio</a></span><span style="background-color: #0768d7; color: #FFFFFF; padding: 0.4em 0.8em; margin-left: 0.4em;"><a href="https://www.linkedin.com/in/olga-durham">LinkedIn<a></span> 
 
 </div>
 
