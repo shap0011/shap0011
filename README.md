@@ -40,7 +40,7 @@
 
 #### 🎯 UI/UX Design & Accessibility
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoWidth=20) ![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat&logo=w3c&logoColor=white&logoWidth=20) [![WET-BOEW](https://img.shields.io/badge/WET--BOEW-003366?style=flat&logoWidth=20)](https://wet-boew.github.io/wet-boew/index-en.html)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoWidth=20) ![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat&logo=w3c&logoColor=white&logoWidth=20) [![WET-BOEW](https://img.shields.io/badge/WET--BOEW-003366?style=flat&logoWidth=20)](https://cannor.gc.ca/DAM/PresentationDAM/STAGING/WET/WET4.0.25-WET/docs/opt-en.html)
 
 ---
 
@@ -52,7 +52,7 @@
 
 #### 🤖 Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=20) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=20) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black&logoWidth=20) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white&logoWidth=20)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=20) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=20) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20)](https://scikit-learn.org/stable/) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black&logoWidth=20) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white&logoWidth=20)
 
 ---
 
