@@ -1,8 +1,14 @@
-## Hi there 👋
+<!-- My name is Olga, and I'm a student in Cloud Development and Operations in Algonquin College, Ottawa, ON, Canada. -->
 
-My name is Olga, and I'm a student in Cloud Development and Operations in Algonquin College, Ottawa, ON, Canada.
+<div align="center">
 
-**Cloud Development & Operations | Business Intelligence | Web & Data Projects**
+  <img src="resources/your_cool_intro.gif" alt="Intro">
+
+  <p style="color: red;"><strong><span style="color: #2ECC71;">Cloud Development & Operations | Business Intelligence | Web & Data Projects</span></strong></p>
+
+  <img src="resources/siber_plug.gif" alt="Intro">
+
+</div>
 
 🔹 Portfolio: https://shap0011.github.io  
 🔹 LinkedIn: https://www.linkedin.com/in/olga-durham
