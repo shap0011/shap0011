@@ -4,11 +4,22 @@
 
   <img src="resources/your_cool_intro.gif" alt="Intro">
 
-  <p style="color: red;"><strong><span style="color: #2ECC71;">Cloud Development & Operations | Business Intelligence | Web & Data Projects</span></strong></p>
+  <p><strong><span style="color: #2ECC71;">Cloud Development & Operations | Business Intelligence | Web & Data Projects</span></strong></p>
 
   <img src="resources/siber_plug.gif" alt="Intro">
 
+  <span style="background-color: #d97b00; color: white; padding: 0.2em 0.4em; border-radius: 3px; margin-right: 0.2em;"><a href="https://shap0011.github.io">Portfolio</a></span><span style="background-color: #b105fa; color: white; padding: 0.2em 0.4em; border-radius: 3px; margin-left:0.2em"><a href="https://www.linkedin.com/in/olga-durham">LinkedIn</a></span>
+
 </div>
+
+<!-- ```diff
++ This line will be green
+- This line will be red
+! This line will be gray (varies by platform)
+# This is a comment-like line
+``` -->
+
+
 
 🔹 Portfolio: https://shap0011.github.io  
 🔹 LinkedIn: https://www.linkedin.com/in/olga-durham
