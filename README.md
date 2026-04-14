@@ -2,19 +2,17 @@
 
   <img src="resources/your_cool_intro.gif" alt="Intro" width="100%" />
 
-### ☁️ Cloud Development & Operations | 📊 Business Intelligence | 💻 Web & Data Projects
+#### ☁️ Cloud Development & Operations | 📊 Business Intelligence | 💻 Web & Data Projects
 
-  <br>
+<img src="resources/siber_plug.gif" alt="Saber Plug Animation" width="500"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-049e44?style=for-the-badge)](https://shap0011.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0768d7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-durham) [![GitHub Projects](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shap0011?tab=repositories)
-
-  <br>
-
-<img src="resources/siber_plug.gif" alt="Saber Plug Animation" width="300"/>
 
 ---
 
 ### 🛠️ My Skills
+
+</div>
 
 #### 💻 Full-Stack Development
 
@@ -67,5 +65,3 @@
 #### 🎨 Adobe Creative Cloud
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white&logoWidth=20) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white&logoWidth=20) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white&logoWidth=20) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white&logoWidth=20) ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white&logoWidth=20) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white&logoWidth=20) ![Audition](https://img.shields.io/badge/Audition-00E4BB?style=flat&logo=adobeaudition&logoColor=white&logoWidth=20) ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=flat&logo=adobedreamweaver&logoColor=white&logoWidth=20)
-
-</div>
