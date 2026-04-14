@@ -1,26 +1,24 @@
-<!-- My name is Olga, and I'm a student in Cloud Development and Operations in Algonquin College, Ottawa, ON, Canada. -->
-
 <div align="center">
 
-  <img src="resources/your_cool_intro.gif" alt="Intro">
+  <img src="resources/your_cool_intro.gif" alt="Intro" width="100%" />
 
-  <p><span style="color: #2ECC71; font-weight:bold;">Cloud Development & Operations | Business Intelligence | Web & Data Projects</span></p>
+# Hi, I'm Olga 👋
 
-  <img src="resources/siber_plug.gif" alt="Intro">
+### ☁️ Cloud Development & Operations
 
-  <span style="background-color: #049e44; color: #FFFFFF; padding: 0.4em 0.8em; margin-right: 0.4em;"><a href="https://shap0011.github.io">Portfolio</a></span><span style="background-color: #0768d7; color: #FFFFFF; padding: 0.4em 0.8em; margin-left: 0.4em;"><a href="https://www.linkedin.com/in/olga-durham">LinkedIn<a></span> 
+### 📊 Business Intelligence | 💻 Web & Data Projects
+
+  <br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-049e44?style=for-the-badge)](https://shap0011.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0768d7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-durham)
+[![GitHub Projects](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shap0011?tab=repositories)
+
+  <br>
+
+  <img src="resources/siber_plug.gif" alt="Saber Plug Animation" width="300"/>
 
 </div>
-
-<!-- ```diff
-+ This line will be green
-- This line will be red
-! This line will be gray (varies by platform)
-# This is a comment-like line
-``` -->
-
-🔹 Portfolio: https://shap0011.github.io  
-🔹 LinkedIn: https://www.linkedin.com/in/olga-durham
 
 <details>
 <summary>Read More</summary>
