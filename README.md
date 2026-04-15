@@ -8,11 +8,27 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-049e44?style=for-the-badge)](https://shap0011.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0768d7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-durham) [![GitHub Projects](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shap0011?tab=repositories)
 
+</div>
+
 ---
 
-### 🛠️ My Skills
+### 👋 About Me
 
-</div>
+💻 Full-Stack Developer with a strong academic background in software development, cloud computing, and data systems.
+
+🎓 Currently pursuing a Graduate Certificate in Cloud Development & Operations at Algonquin College, with multiple diplomas completed with honours.
+
+🚀 I build modern web applications using React, Vue, and cloud technologies (Azure, AWS), and have hands-on experience with microservices, APIs, and DevOps tools like Docker and Kubernetes.
+
+📊 I also bring experience in data analysis and visualization (Power BI, SQL, Python), enabling me to connect application development with data-driven insights.
+
+🎨 With a foundation in interactive media design, I focus on creating clean, accessible, and user-friendly interfaces.
+
+🌱 Currently expanding my expertise in cloud architecture and full-stack development.
+
+---
+
+### 🛠️ My Skills</div>
 
 #### 💻 Full-Stack Development
 
