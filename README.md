@@ -78,9 +78,7 @@
 #### 🎯 UI/UX Design & Accessibility
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoWidth=20)](https://help.figma.com/)
-
 [![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat&logo=w3c&logoColor=white&logoWidth=20)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-
 [![WET-BOEW](https://img.shields.io/badge/WET--BOEW-003366?style=flat&logoWidth=20)](https://wet-boew.github.io/wet-boew/index-en.html)
 
 ---
