@@ -42,7 +42,8 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white&logoWidth=20)](https://vitejs.dev/guide/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&logoWidth=20)](https://firebase.google.com/docs)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoWidth=20)](https://flask.palletsprojects.com/en/stable/)
-[![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=flat&logo=adobedreamweaver&logoColor=white&logoWidth=20)](https://helpx.adobe.com/dreamweaver/user-guide.html)
+
+<!-- [![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=flat&logo=adobedreamweaver&logoColor=white&logoWidth=20)](https://helpx.adobe.com/dreamweaver/user-guide.html) -->
 
 ---
 
