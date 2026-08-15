@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="resources/your_cool_intro.gif" alt="Intro" width="100%" />
+  <!--<img src="resources/your_cool_intro.gif" alt="Intro" width="100%" />-->
 
 ### ☁️ Cloud Development & Operations | 📊 Business Intelligence | 💻 Web & Data Projects
 
