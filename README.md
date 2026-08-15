@@ -2,7 +2,7 @@
 
   <!--<img src="resources/your_cool_intro.gif" alt="Intro" width="100%" />-->
 
-<marquee><h1>☁️ Cloud Development & Operations | 📊 Business Intelligence | 💻 Web & Data Projects</h1></marquee>
+### ☁️ Cloud Development & Operations | 📊 Business Intelligence | 💻 Web & Data Projects
 
 <img src="resources/siber_plug.gif" alt="Saber Plug Animation" width="500"/>
 
